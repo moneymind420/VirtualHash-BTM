@@ -1,4 +1,4 @@
-Clumsy Bird
+Virtual Hash - Beyond The Miner
 ===========
 
 A MelonJS made "Flappy Bird" clone.
