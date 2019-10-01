@@ -3,7 +3,7 @@ Virtual Hash - Beyond The Miner
 
 A MelonJS made "Flappy Bird" clone.
 
-![](http://i.imgur.com/Slbvt65.png)
+![](https://imgur.com/a/GY7x8cu)
 
 Play online at http://ellisonleao.github.io/clumsy-bird/
 
